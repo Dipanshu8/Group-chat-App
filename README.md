@@ -1,5 +1,5 @@
 # Group-chat-App Usingh Socket Programming
-A group chat application using MulticastSocket (Java Platform SE 7) class is discussed. 
+A sample group chat application using MulticastSocket (Java Platform SE 7). 
 A MulticastSocket is a (UDP) DatagramSocket, with additional capabilities for joining “groups” of other multicast hosts on the internet.
 
 ## Procedure
